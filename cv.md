@@ -22,7 +22,7 @@ quibusdam rerum. Obcaecati enim nulla velit mollitia maxime nobis magni modi
 quae voluptatum. Temporibus facere illo a non molestias, ut eum accusamus modi
 veniam?
 
-### Skills
+### Skills:
 
 - HTML5
 - CSS3
