@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[go to cv](https://github.com/Viktor-sun/rsschool-cv.git)
+[go to cv](https://viktor-sun.github.io/rsschool-cv/)
